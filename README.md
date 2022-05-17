@@ -6,17 +6,16 @@
 ```
 > [源 github](https://github.com/zh-lx/pinyin-pro)
 
----  
-  
-  
+
+<hr style="border: 0;border-top: 1px dashed #a2a9b6;" />
+
 
 <p align="center">
   <a href="https://github.com/vizzuhq/vizzu-lib">
     <img src="https://github.com/vizzuhq/vizzu-lib-doc/raw/main/docs/readme/infinite-60.gif" alt="Vizzu" />
   </a>
   <p align="center"><b>Vizzu</b> - Library for animated data visualizations and data stories.</p>
-</p>
-+ vizzu  
+</p> 
 
 ```js
 import Vizzu from 'vizzu.min.js'
