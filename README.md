@@ -6,7 +6,18 @@
 ```
 > [源 github](https://github.com/zh-lx/pinyin-pro)
 
-+ vizzu
+---  
+  
+  
+
+<p align="center">
+  <a href="https://github.com/vizzuhq/vizzu-lib">
+    <img src="https://github.com/vizzuhq/vizzu-lib-doc/raw/main/docs/readme/infinite-60.gif" alt="Vizzu" />
+  </a>
+  <p align="center"><b>Vizzu</b> - Library for animated data visualizations and data stories.</p>
+</p>
++ vizzu  
+
 ```js
 import Vizzu from 'vizzu.min.js'
 const data = {
@@ -24,5 +35,5 @@ chart.animate({
   geometry: 'circle' 
 })
 ```
-> [源 github](https://github.com/vizzuhq/vizzu-lib)
+> [源 github](https://github.com/vizzuhq/vizzu-lib)  
 > [源 文档](https://lib.vizzuhq.com/latest/)
