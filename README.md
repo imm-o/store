@@ -1,5 +1,6 @@
 
-[![pinyin-pro Logo](https://i.ibb.co/26fJ5vF/pinyin-logo.png)](https://github.com/zh-lx/pinyin-pro)
+<!-- [![pinyin-pro Logo](https://i.ibb.co/26fJ5vF/pinyin-logo.png)](https://github.com/zh-lx/pinyin-pro) -->
+<img src="https://i.ibb.co/26fJ5vF/pinyin-logo.png" height="52" width="243" alt="pinyin" />
 
 ```javascript
   import { pinyin } from 'pinyin'
@@ -13,7 +14,8 @@
 
 
 
-[![vizzu Logo](https://github.com/vizzuhq/vizzu-lib-doc/raw/main/docs/readme/infinite-60.gif)](https://github.com/vizzuhq/vizzu-lib)
+<!-- [![vizzu Logo](https://github.com/vizzuhq/vizzu-lib-doc/raw/main/docs/readme/infinite-60.gif)](https://github.com/vizzuhq/vizzu-lib) -->
+<img src="https://github.com/vizzuhq/vizzu-lib-doc/raw/main/docs/readme/infinite-60.gif" alt="vizzu" />
 
 ```javascript
 import Vizzu from 'vizzu.min.js'
@@ -38,7 +40,8 @@ chart.animate({
 
 
 
-[![popmotion Logo](https://user-images.githubusercontent.com/7850794/90245722-80926e80-de33-11ea-9c39-ea6c5b344217.png)](https://github.com/Popmotion/popmotion)
+<!-- [![popmotion Logo](https://user-images.githubusercontent.com/7850794/90245722-80926e80-de33-11ea-9c39-ea6c5b344217.png)](https://github.com/Popmotion/popmotion) -->
+<img src="https://user-images.githubusercontent.com/7850794/90245722-80926e80-de33-11ea-9c39-ea6c5b344217.png" height="52" width="243" alt="popmotion" />
 
 ```javascript
 import { animate } from "popmotion"
