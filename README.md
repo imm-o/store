@@ -1,6 +1,6 @@
 
 <!-- [![pinyin-pro Logo](https://i.ibb.co/26fJ5vF/pinyin-logo.png)](https://github.com/zh-lx/pinyin-pro) -->
-<img src="https://i.ibb.co/26fJ5vF/pinyin-logo.png" height="52" width="243" alt="pinyin" />
+<img src="https://i.ibb.co/26fJ5vF/pinyin-logo.png" height="80" width="200" alt="pinyin" />
 
 ```javascript
   import { pinyin } from 'pinyin'
@@ -11,6 +11,9 @@
 
 
  
+
+
+---
 
 
 
@@ -37,6 +40,11 @@ chart.animate({
 ```
 > [源 github](https://github.com/vizzuhq/vizzu-lib)  
 > [源 文档](https://lib.vizzuhq.com/latest/)
+
+
+
+
+--
 
 
 
