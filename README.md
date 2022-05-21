@@ -1,21 +1,27 @@
 
 <!-- [![pinyin-pro Logo](https://i.ibb.co/26fJ5vF/pinyin-logo.png)](https://github.com/zh-lx/pinyin-pro) -->
-<img src="https://i.ibb.co/26fJ5vF/pinyin-logo.png" height="80" width="200" alt="pinyin" />
+### pinyin
+
+**中文转拼音**
 
 ```javascript
-  import { pinyin } from 'pinyin.min.js'
+  const { pinyin } = require('pinyin.min.js') 
   
   pinyin('汉语拼音'); // 'hàn yǔ pīn yīn'
 ```
 > [源 github](https://github.com/zh-lx/pinyin-pro)
 
 
+
 ---
 
 
 
-<!-- [![vizzu Logo](https://github.com/vizzuhq/vizzu-lib-doc/raw/main/docs/readme/infinite-60.gif)](https://github.com/vizzuhq/vizzu-lib) -->
-<img src="https://github.com/vizzuhq/vizzu-lib-doc/raw/main/docs/readme/infinite-60.gif" alt="vizzu" />
+<!-- [![vizzu Logo](https://github.com/vizzuhq/vizzu-lib-doc/raw/main/docs/readme/infinite-60.gif)](https://github.com/vizzuhq/vizzu-lib) --> 
+
+### vizzu  
+
+**Library for animated data visualizations and data stories.** 
 
 ```javascript
 import Vizzu from 'vizzu.min.js'
@@ -46,10 +52,14 @@ chart.animate({
 
 
 <!-- [![popmotion Logo](https://user-images.githubusercontent.com/7850794/90245722-80926e80-de33-11ea-9c39-ea6c5b344217.png)](https://github.com/Popmotion/popmotion) -->
-<img src="https://user-images.githubusercontent.com/7850794/90245722-80926e80-de33-11ea-9c39-ea6c5b344217.png" height="52" width="243" alt="popmotion" />
+
+### popmotion  
+
+**Animator’s JavaScript toolbox.**
+
 
 ```javascript
-import { animate } from "popmotion.min.js"
+const { animate } = require("popmotion.min.js")
 
 animate({
   from: 0, 
@@ -61,13 +71,18 @@ animate({
 > [源 文档](https://popmotion.io/)
 
 
+
+---
+
+
+
 ### calendar  
 
 **公历年月日转农历数据 返回json**
 
 
 ```js
-  import calendar from 'calendar.min.js'
+  const calendar = require('calendar.min.js') 
 
   calendar.solar2lunar(1987,9,10);
   // { Animal: "兔", IDayCn: "初十", IMonthCn: "九月",ncWeek: "星期日" astro: "天蝎座", 
@@ -87,3 +102,21 @@ animate({
 
 
 ---
+
+
+
+### valine
+
+**Simple comment system base on [LeanCloud](https://www.leancloud.cn/).**
+
+```js
+  const Valine = require('valine.min.js)
+  new Valine({
+    el: '#vcomments',
+    appId: 'Your appId',
+    appKey: 'Your appKey'
+  })
+```
+> [源 github](https://github.com/xCss/Valine)  
+> [源 文档](https://valine.js.org/)
+
